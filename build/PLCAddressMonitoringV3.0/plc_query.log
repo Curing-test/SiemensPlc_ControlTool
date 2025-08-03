@@ -1,0 +1,16 @@
+2025-07-07 09:58:50.930 - INFO [MainThread] - --- PLC 可视化查询工具 启动 (V3.0) ---
+2025-07-07 09:58:51.010 - DEBUG [MainThread] - 可用的 ttk 主题: ('winnative', 'clam', 'alt', 'default', 'classic', 'vista', 'xpnative')
+2025-07-07 09:58:51.011 - INFO [MainThread] - 使用主题: vista
+2025-07-07 09:58:51.011 - INFO [MainThread] - 成功连接到数据库: plc_query_data.db
+2025-07-07 09:58:51.012 - INFO [MainThread] - 数据库表 'query_log' 和相关索引已初始化。
+2025-07-07 09:58:51.019 - DEBUG [MainThread] - 配置 'FANUC机器人扫码地址' 验证通过 (地址格式前缀: DBX)。
+2025-07-07 09:58:51.019 - DEBUG [MainThread] - 配置 '库卡机器人动作地址' 验证通过 (地址格式前缀: DBW)。
+2025-07-07 09:58:51.019 - DEBUG [MainThread] - 配置 'FANUC机器人是否有无监控' 验证通过 (地址格式前缀: DBX)。
+2025-07-07 09:58:51.019 - INFO [MainThread] - 已加载 3 个有效配置。
+2025-07-07 09:58:51.020 - INFO [MainThread] - 已从 address_mapping.json 加载 40 个地址映射。
+2025-07-07 09:58:51.394 - INFO [MainThread] - 正在删除早于 2025-06-30 09:58:51.393 的数据库记录...
+2025-07-07 09:58:51.599 - INFO [MainThread] - 成功删除 36758 条旧的数据库记录。
+2025-07-07 09:58:51.604 - INFO [MainThread] - 已从 alarm_history.jsonl 加载 1829 条报警记录到 UI 缓存。
+2025-07-07 09:58:59.244 - INFO [MainThread] - 退出前关闭数据库连接...
+2025-07-07 09:58:59.244 - INFO [MainThread] - 数据库连接已关闭。
+2025-07-07 09:58:59.245 - INFO [MainThread] - --- PLC 可视化查询工具 已关闭 ---

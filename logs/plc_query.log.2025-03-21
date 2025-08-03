@@ -1,0 +1,1779 @@
+2025-03-21 14:14:02.915 - INFO - creating snap7 client
+2025-03-21 14:14:02.915 - INFO - creating snap7 client
+2025-03-21 14:14:04.816 - INFO - creating snap7 client
+2025-03-21 14:14:04.816 - INFO - creating snap7 client
+2025-03-21 14:14:04.816 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:04.816 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:04.892 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:04.892 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:04.895 - INFO - creating snap7 client
+2025-03-21 14:14:04.895 - INFO - creating snap7 client
+2025-03-21 14:14:04.895 - INFO - destroying snap7 client
+2025-03-21 14:14:04.895 - INFO - destroying snap7 client
+2025-03-21 14:14:04.895 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:04.895 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:04.987 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:04.987 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:04.989 - INFO - creating snap7 client
+2025-03-21 14:14:04.989 - INFO - creating snap7 client
+2025-03-21 14:14:04.990 - INFO - destroying snap7 client
+2025-03-21 14:14:04.990 - INFO - destroying snap7 client
+2025-03-21 14:14:04.990 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:04.990 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.086 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.086 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.089 - INFO - creating snap7 client
+2025-03-21 14:14:05.089 - INFO - creating snap7 client
+2025-03-21 14:14:05.089 - INFO - destroying snap7 client
+2025-03-21 14:14:05.089 - INFO - destroying snap7 client
+2025-03-21 14:14:05.089 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.089 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.190 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.190 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.201 - INFO - creating snap7 client
+2025-03-21 14:14:05.201 - INFO - creating snap7 client
+2025-03-21 14:14:05.201 - INFO - destroying snap7 client
+2025-03-21 14:14:05.201 - INFO - destroying snap7 client
+2025-03-21 14:14:05.201 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.201 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.289 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.289 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.292 - INFO - creating snap7 client
+2025-03-21 14:14:05.292 - INFO - creating snap7 client
+2025-03-21 14:14:05.292 - INFO - destroying snap7 client
+2025-03-21 14:14:05.292 - INFO - destroying snap7 client
+2025-03-21 14:14:05.293 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.293 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.383 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.383 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.387 - INFO - creating snap7 client
+2025-03-21 14:14:05.387 - INFO - creating snap7 client
+2025-03-21 14:14:05.387 - INFO - destroying snap7 client
+2025-03-21 14:14:05.387 - INFO - destroying snap7 client
+2025-03-21 14:14:05.387 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.387 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.480 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.480 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.482 - INFO - creating snap7 client
+2025-03-21 14:14:05.482 - INFO - creating snap7 client
+2025-03-21 14:14:05.482 - INFO - destroying snap7 client
+2025-03-21 14:14:05.482 - INFO - destroying snap7 client
+2025-03-21 14:14:05.483 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.483 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.573 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.573 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.578 - INFO - creating snap7 client
+2025-03-21 14:14:05.578 - INFO - creating snap7 client
+2025-03-21 14:14:05.578 - INFO - destroying snap7 client
+2025-03-21 14:14:05.578 - INFO - destroying snap7 client
+2025-03-21 14:14:05.578 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.578 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.669 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.669 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.672 - INFO - creating snap7 client
+2025-03-21 14:14:05.672 - INFO - creating snap7 client
+2025-03-21 14:14:05.672 - INFO - destroying snap7 client
+2025-03-21 14:14:05.672 - INFO - destroying snap7 client
+2025-03-21 14:14:05.672 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.672 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.763 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.763 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.766 - INFO - creating snap7 client
+2025-03-21 14:14:05.766 - INFO - creating snap7 client
+2025-03-21 14:14:05.766 - INFO - destroying snap7 client
+2025-03-21 14:14:05.766 - INFO - destroying snap7 client
+2025-03-21 14:14:05.766 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.766 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.856 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.856 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.860 - INFO - creating snap7 client
+2025-03-21 14:14:05.860 - INFO - creating snap7 client
+2025-03-21 14:14:05.860 - INFO - destroying snap7 client
+2025-03-21 14:14:05.860 - INFO - destroying snap7 client
+2025-03-21 14:14:05.861 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.861 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.948 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.948 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:05.953 - INFO - creating snap7 client
+2025-03-21 14:14:05.953 - INFO - creating snap7 client
+2025-03-21 14:14:05.953 - INFO - destroying snap7 client
+2025-03-21 14:14:05.953 - INFO - destroying snap7 client
+2025-03-21 14:14:05.953 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:05.953 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.040 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.040 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.044 - INFO - creating snap7 client
+2025-03-21 14:14:06.044 - INFO - creating snap7 client
+2025-03-21 14:14:06.044 - INFO - destroying snap7 client
+2025-03-21 14:14:06.044 - INFO - destroying snap7 client
+2025-03-21 14:14:06.045 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.045 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.140 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.140 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.145 - INFO - creating snap7 client
+2025-03-21 14:14:06.145 - INFO - creating snap7 client
+2025-03-21 14:14:06.146 - INFO - destroying snap7 client
+2025-03-21 14:14:06.146 - INFO - destroying snap7 client
+2025-03-21 14:14:06.146 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.146 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.243 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.243 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.256 - INFO - creating snap7 client
+2025-03-21 14:14:06.256 - INFO - creating snap7 client
+2025-03-21 14:14:06.256 - INFO - destroying snap7 client
+2025-03-21 14:14:06.256 - INFO - destroying snap7 client
+2025-03-21 14:14:06.257 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.257 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.347 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.347 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.349 - INFO - creating snap7 client
+2025-03-21 14:14:06.349 - INFO - creating snap7 client
+2025-03-21 14:14:06.349 - INFO - destroying snap7 client
+2025-03-21 14:14:06.349 - INFO - destroying snap7 client
+2025-03-21 14:14:06.349 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.349 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.440 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.440 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.444 - INFO - creating snap7 client
+2025-03-21 14:14:06.444 - INFO - creating snap7 client
+2025-03-21 14:14:06.444 - INFO - destroying snap7 client
+2025-03-21 14:14:06.444 - INFO - destroying snap7 client
+2025-03-21 14:14:06.444 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.444 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.531 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.531 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.534 - INFO - creating snap7 client
+2025-03-21 14:14:06.534 - INFO - creating snap7 client
+2025-03-21 14:14:06.534 - INFO - destroying snap7 client
+2025-03-21 14:14:06.534 - INFO - destroying snap7 client
+2025-03-21 14:14:06.535 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.535 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.622 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.622 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.624 - INFO - creating snap7 client
+2025-03-21 14:14:06.624 - INFO - creating snap7 client
+2025-03-21 14:14:06.625 - INFO - destroying snap7 client
+2025-03-21 14:14:06.625 - INFO - destroying snap7 client
+2025-03-21 14:14:06.625 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.625 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.715 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.715 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.719 - INFO - creating snap7 client
+2025-03-21 14:14:06.719 - INFO - creating snap7 client
+2025-03-21 14:14:06.720 - INFO - destroying snap7 client
+2025-03-21 14:14:06.720 - INFO - destroying snap7 client
+2025-03-21 14:14:06.720 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.720 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.809 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.809 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.811 - INFO - creating snap7 client
+2025-03-21 14:14:06.811 - INFO - creating snap7 client
+2025-03-21 14:14:06.811 - INFO - destroying snap7 client
+2025-03-21 14:14:06.811 - INFO - destroying snap7 client
+2025-03-21 14:14:06.812 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.812 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.897 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.897 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.900 - INFO - creating snap7 client
+2025-03-21 14:14:06.900 - INFO - creating snap7 client
+2025-03-21 14:14:06.900 - INFO - destroying snap7 client
+2025-03-21 14:14:06.900 - INFO - destroying snap7 client
+2025-03-21 14:14:06.900 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.900 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:06.996 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.996 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:06.999 - INFO - creating snap7 client
+2025-03-21 14:14:06.999 - INFO - creating snap7 client
+2025-03-21 14:14:07.000 - INFO - destroying snap7 client
+2025-03-21 14:14:07.000 - INFO - destroying snap7 client
+2025-03-21 14:14:07.000 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.000 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.098 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.098 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.100 - INFO - creating snap7 client
+2025-03-21 14:14:07.100 - INFO - creating snap7 client
+2025-03-21 14:14:07.100 - INFO - destroying snap7 client
+2025-03-21 14:14:07.100 - INFO - destroying snap7 client
+2025-03-21 14:14:07.101 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.101 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.202 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.202 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.206 - INFO - creating snap7 client
+2025-03-21 14:14:07.206 - INFO - creating snap7 client
+2025-03-21 14:14:07.207 - INFO - destroying snap7 client
+2025-03-21 14:14:07.207 - INFO - destroying snap7 client
+2025-03-21 14:14:07.207 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.207 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.306 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.306 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.308 - INFO - creating snap7 client
+2025-03-21 14:14:07.308 - INFO - creating snap7 client
+2025-03-21 14:14:07.309 - INFO - destroying snap7 client
+2025-03-21 14:14:07.309 - INFO - destroying snap7 client
+2025-03-21 14:14:07.309 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.309 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.405 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.405 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.408 - INFO - creating snap7 client
+2025-03-21 14:14:07.408 - INFO - creating snap7 client
+2025-03-21 14:14:07.409 - INFO - destroying snap7 client
+2025-03-21 14:14:07.409 - INFO - destroying snap7 client
+2025-03-21 14:14:07.409 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.409 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.501 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.501 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.504 - INFO - creating snap7 client
+2025-03-21 14:14:07.504 - INFO - creating snap7 client
+2025-03-21 14:14:07.504 - INFO - destroying snap7 client
+2025-03-21 14:14:07.504 - INFO - destroying snap7 client
+2025-03-21 14:14:07.504 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.504 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.598 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.598 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.602 - INFO - creating snap7 client
+2025-03-21 14:14:07.602 - INFO - creating snap7 client
+2025-03-21 14:14:07.602 - INFO - destroying snap7 client
+2025-03-21 14:14:07.602 - INFO - destroying snap7 client
+2025-03-21 14:14:07.602 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.602 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.695 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.695 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.699 - INFO - creating snap7 client
+2025-03-21 14:14:07.699 - INFO - creating snap7 client
+2025-03-21 14:14:07.700 - INFO - destroying snap7 client
+2025-03-21 14:14:07.700 - INFO - destroying snap7 client
+2025-03-21 14:14:07.700 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.700 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.790 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.790 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.793 - INFO - creating snap7 client
+2025-03-21 14:14:07.793 - INFO - creating snap7 client
+2025-03-21 14:14:07.794 - INFO - destroying snap7 client
+2025-03-21 14:14:07.794 - INFO - destroying snap7 client
+2025-03-21 14:14:07.794 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.794 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.884 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.884 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.887 - INFO - creating snap7 client
+2025-03-21 14:14:07.887 - INFO - creating snap7 client
+2025-03-21 14:14:07.888 - INFO - destroying snap7 client
+2025-03-21 14:14:07.888 - INFO - destroying snap7 client
+2025-03-21 14:14:07.888 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.888 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.981 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.981 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:07.986 - INFO - creating snap7 client
+2025-03-21 14:14:07.986 - INFO - creating snap7 client
+2025-03-21 14:14:07.986 - INFO - destroying snap7 client
+2025-03-21 14:14:07.986 - INFO - destroying snap7 client
+2025-03-21 14:14:07.986 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:07.986 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.077 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.077 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.079 - INFO - creating snap7 client
+2025-03-21 14:14:08.079 - INFO - creating snap7 client
+2025-03-21 14:14:08.079 - INFO - destroying snap7 client
+2025-03-21 14:14:08.079 - INFO - destroying snap7 client
+2025-03-21 14:14:08.080 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.080 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.169 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.169 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.172 - INFO - creating snap7 client
+2025-03-21 14:14:08.172 - INFO - creating snap7 client
+2025-03-21 14:14:08.172 - INFO - destroying snap7 client
+2025-03-21 14:14:08.172 - INFO - destroying snap7 client
+2025-03-21 14:14:08.173 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.173 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.273 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.273 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.286 - INFO - creating snap7 client
+2025-03-21 14:14:08.286 - INFO - creating snap7 client
+2025-03-21 14:14:08.286 - INFO - destroying snap7 client
+2025-03-21 14:14:08.286 - INFO - destroying snap7 client
+2025-03-21 14:14:08.286 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.286 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.377 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.377 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.380 - INFO - creating snap7 client
+2025-03-21 14:14:08.380 - INFO - creating snap7 client
+2025-03-21 14:14:08.380 - INFO - destroying snap7 client
+2025-03-21 14:14:08.380 - INFO - destroying snap7 client
+2025-03-21 14:14:08.381 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.381 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.385 - ERROR - b' TCP : Unreachable peer'
+2025-03-21 14:14:08.385 - ERROR - b' TCP : Unreachable peer'
+2025-03-21 14:14:08.386 - WARNING - 连接重试 1/3: b' TCP : Unreachable peer'
+2025-03-21 14:14:08.386 - WARNING - 连接重试 1/3: b' TCP : Unreachable peer'
+2025-03-21 14:14:08.386 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.386 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.473 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.473 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.476 - INFO - creating snap7 client
+2025-03-21 14:14:08.476 - INFO - creating snap7 client
+2025-03-21 14:14:08.476 - INFO - destroying snap7 client
+2025-03-21 14:14:08.476 - INFO - destroying snap7 client
+2025-03-21 14:14:08.476 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.476 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.566 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.566 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.572 - INFO - creating snap7 client
+2025-03-21 14:14:08.572 - INFO - creating snap7 client
+2025-03-21 14:14:08.572 - INFO - destroying snap7 client
+2025-03-21 14:14:08.572 - INFO - destroying snap7 client
+2025-03-21 14:14:08.573 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.573 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.662 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.662 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.665 - INFO - creating snap7 client
+2025-03-21 14:14:08.665 - INFO - creating snap7 client
+2025-03-21 14:14:08.666 - INFO - destroying snap7 client
+2025-03-21 14:14:08.666 - INFO - destroying snap7 client
+2025-03-21 14:14:08.666 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.666 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.757 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.757 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.761 - INFO - creating snap7 client
+2025-03-21 14:14:08.761 - INFO - creating snap7 client
+2025-03-21 14:14:08.761 - INFO - destroying snap7 client
+2025-03-21 14:14:08.761 - INFO - destroying snap7 client
+2025-03-21 14:14:08.762 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.762 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.847 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.847 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.857 - INFO - creating snap7 client
+2025-03-21 14:14:08.857 - INFO - creating snap7 client
+2025-03-21 14:14:08.857 - INFO - destroying snap7 client
+2025-03-21 14:14:08.857 - INFO - destroying snap7 client
+2025-03-21 14:14:08.857 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.857 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.949 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.949 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:08.957 - INFO - creating snap7 client
+2025-03-21 14:14:08.957 - INFO - creating snap7 client
+2025-03-21 14:14:08.958 - INFO - destroying snap7 client
+2025-03-21 14:14:08.958 - INFO - destroying snap7 client
+2025-03-21 14:14:08.959 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:08.959 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.047 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.047 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.056 - INFO - creating snap7 client
+2025-03-21 14:14:09.056 - INFO - creating snap7 client
+2025-03-21 14:14:09.057 - INFO - destroying snap7 client
+2025-03-21 14:14:09.057 - INFO - destroying snap7 client
+2025-03-21 14:14:09.057 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.057 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.144 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.144 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.147 - INFO - creating snap7 client
+2025-03-21 14:14:09.147 - INFO - creating snap7 client
+2025-03-21 14:14:09.147 - INFO - destroying snap7 client
+2025-03-21 14:14:09.147 - INFO - destroying snap7 client
+2025-03-21 14:14:09.147 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.147 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.247 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.247 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.255 - INFO - creating snap7 client
+2025-03-21 14:14:09.255 - INFO - creating snap7 client
+2025-03-21 14:14:09.256 - INFO - destroying snap7 client
+2025-03-21 14:14:09.256 - INFO - destroying snap7 client
+2025-03-21 14:14:09.256 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.256 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.355 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.355 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.362 - INFO - creating snap7 client
+2025-03-21 14:14:09.362 - INFO - creating snap7 client
+2025-03-21 14:14:09.363 - INFO - destroying snap7 client
+2025-03-21 14:14:09.363 - INFO - destroying snap7 client
+2025-03-21 14:14:09.363 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.363 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.452 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.452 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.455 - INFO - creating snap7 client
+2025-03-21 14:14:09.455 - INFO - creating snap7 client
+2025-03-21 14:14:09.455 - INFO - destroying snap7 client
+2025-03-21 14:14:09.455 - INFO - destroying snap7 client
+2025-03-21 14:14:09.455 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.455 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.543 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.543 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.546 - INFO - creating snap7 client
+2025-03-21 14:14:09.546 - INFO - creating snap7 client
+2025-03-21 14:14:09.546 - INFO - destroying snap7 client
+2025-03-21 14:14:09.546 - INFO - destroying snap7 client
+2025-03-21 14:14:09.546 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.546 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.638 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.638 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.642 - INFO - creating snap7 client
+2025-03-21 14:14:09.642 - INFO - creating snap7 client
+2025-03-21 14:14:09.642 - INFO - destroying snap7 client
+2025-03-21 14:14:09.642 - INFO - destroying snap7 client
+2025-03-21 14:14:09.643 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.643 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.731 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.731 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.736 - INFO - creating snap7 client
+2025-03-21 14:14:09.736 - INFO - creating snap7 client
+2025-03-21 14:14:09.736 - INFO - destroying snap7 client
+2025-03-21 14:14:09.736 - INFO - destroying snap7 client
+2025-03-21 14:14:09.737 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.737 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.829 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.829 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.833 - INFO - creating snap7 client
+2025-03-21 14:14:09.833 - INFO - creating snap7 client
+2025-03-21 14:14:09.833 - INFO - destroying snap7 client
+2025-03-21 14:14:09.833 - INFO - destroying snap7 client
+2025-03-21 14:14:09.834 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.834 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.927 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.927 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:09.930 - INFO - creating snap7 client
+2025-03-21 14:14:09.930 - INFO - creating snap7 client
+2025-03-21 14:14:09.930 - INFO - destroying snap7 client
+2025-03-21 14:14:09.930 - INFO - destroying snap7 client
+2025-03-21 14:14:09.930 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:09.930 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.029 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.029 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.033 - INFO - creating snap7 client
+2025-03-21 14:14:10.033 - INFO - creating snap7 client
+2025-03-21 14:14:10.034 - INFO - destroying snap7 client
+2025-03-21 14:14:10.034 - INFO - destroying snap7 client
+2025-03-21 14:14:10.034 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.034 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.120 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.120 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.123 - INFO - creating snap7 client
+2025-03-21 14:14:10.123 - INFO - creating snap7 client
+2025-03-21 14:14:10.123 - INFO - destroying snap7 client
+2025-03-21 14:14:10.123 - INFO - destroying snap7 client
+2025-03-21 14:14:10.123 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.123 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.214 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.214 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.217 - INFO - creating snap7 client
+2025-03-21 14:14:10.217 - INFO - creating snap7 client
+2025-03-21 14:14:10.218 - INFO - destroying snap7 client
+2025-03-21 14:14:10.218 - INFO - destroying snap7 client
+2025-03-21 14:14:10.218 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.218 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.322 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.322 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.333 - INFO - creating snap7 client
+2025-03-21 14:14:10.333 - INFO - creating snap7 client
+2025-03-21 14:14:10.333 - INFO - destroying snap7 client
+2025-03-21 14:14:10.333 - INFO - destroying snap7 client
+2025-03-21 14:14:10.333 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.333 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.428 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.428 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.432 - INFO - creating snap7 client
+2025-03-21 14:14:10.432 - INFO - creating snap7 client
+2025-03-21 14:14:10.434 - INFO - destroying snap7 client
+2025-03-21 14:14:10.434 - INFO - destroying snap7 client
+2025-03-21 14:14:10.434 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.434 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.526 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.526 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.529 - INFO - creating snap7 client
+2025-03-21 14:14:10.529 - INFO - creating snap7 client
+2025-03-21 14:14:10.530 - INFO - destroying snap7 client
+2025-03-21 14:14:10.530 - INFO - destroying snap7 client
+2025-03-21 14:14:10.530 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.530 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.622 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.622 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.624 - INFO - creating snap7 client
+2025-03-21 14:14:10.624 - INFO - creating snap7 client
+2025-03-21 14:14:10.624 - INFO - destroying snap7 client
+2025-03-21 14:14:10.624 - INFO - destroying snap7 client
+2025-03-21 14:14:10.624 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.624 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.717 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.717 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.721 - INFO - creating snap7 client
+2025-03-21 14:14:10.721 - INFO - creating snap7 client
+2025-03-21 14:14:10.721 - INFO - destroying snap7 client
+2025-03-21 14:14:10.721 - INFO - destroying snap7 client
+2025-03-21 14:14:10.721 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.721 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.815 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.815 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.818 - INFO - creating snap7 client
+2025-03-21 14:14:10.818 - INFO - creating snap7 client
+2025-03-21 14:14:10.818 - INFO - destroying snap7 client
+2025-03-21 14:14:10.818 - INFO - destroying snap7 client
+2025-03-21 14:14:10.819 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.819 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.903 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.903 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.905 - INFO - creating snap7 client
+2025-03-21 14:14:10.905 - INFO - creating snap7 client
+2025-03-21 14:14:10.905 - INFO - destroying snap7 client
+2025-03-21 14:14:10.905 - INFO - destroying snap7 client
+2025-03-21 14:14:10.906 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.906 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:10.997 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:10.997 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.000 - INFO - creating snap7 client
+2025-03-21 14:14:11.000 - INFO - creating snap7 client
+2025-03-21 14:14:11.001 - INFO - destroying snap7 client
+2025-03-21 14:14:11.001 - INFO - destroying snap7 client
+2025-03-21 14:14:11.001 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.001 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.095 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.095 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.099 - INFO - creating snap7 client
+2025-03-21 14:14:11.099 - INFO - creating snap7 client
+2025-03-21 14:14:11.099 - INFO - destroying snap7 client
+2025-03-21 14:14:11.099 - INFO - destroying snap7 client
+2025-03-21 14:14:11.099 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.099 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.196 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.196 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.203 - INFO - creating snap7 client
+2025-03-21 14:14:11.203 - INFO - creating snap7 client
+2025-03-21 14:14:11.204 - INFO - destroying snap7 client
+2025-03-21 14:14:11.204 - INFO - destroying snap7 client
+2025-03-21 14:14:11.204 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.204 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.305 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.305 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.308 - INFO - creating snap7 client
+2025-03-21 14:14:11.308 - INFO - creating snap7 client
+2025-03-21 14:14:11.309 - INFO - destroying snap7 client
+2025-03-21 14:14:11.309 - INFO - destroying snap7 client
+2025-03-21 14:14:11.309 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.309 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.412 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.412 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.425 - INFO - creating snap7 client
+2025-03-21 14:14:11.425 - INFO - creating snap7 client
+2025-03-21 14:14:11.425 - INFO - destroying snap7 client
+2025-03-21 14:14:11.425 - INFO - destroying snap7 client
+2025-03-21 14:14:11.426 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.426 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.511 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.511 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.515 - INFO - creating snap7 client
+2025-03-21 14:14:11.515 - INFO - creating snap7 client
+2025-03-21 14:14:11.515 - INFO - destroying snap7 client
+2025-03-21 14:14:11.515 - INFO - destroying snap7 client
+2025-03-21 14:14:11.516 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.516 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.608 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.608 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.614 - INFO - creating snap7 client
+2025-03-21 14:14:11.614 - INFO - creating snap7 client
+2025-03-21 14:14:11.615 - INFO - destroying snap7 client
+2025-03-21 14:14:11.615 - INFO - destroying snap7 client
+2025-03-21 14:14:11.615 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.615 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.709 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.709 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.713 - INFO - creating snap7 client
+2025-03-21 14:14:11.713 - INFO - creating snap7 client
+2025-03-21 14:14:11.713 - INFO - destroying snap7 client
+2025-03-21 14:14:11.713 - INFO - destroying snap7 client
+2025-03-21 14:14:11.714 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.714 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.805 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.805 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.809 - INFO - creating snap7 client
+2025-03-21 14:14:11.809 - INFO - creating snap7 client
+2025-03-21 14:14:11.810 - INFO - destroying snap7 client
+2025-03-21 14:14:11.810 - INFO - destroying snap7 client
+2025-03-21 14:14:11.810 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.810 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.912 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.912 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:11.915 - INFO - creating snap7 client
+2025-03-21 14:14:11.915 - INFO - creating snap7 client
+2025-03-21 14:14:11.915 - INFO - destroying snap7 client
+2025-03-21 14:14:11.915 - INFO - destroying snap7 client
+2025-03-21 14:14:11.916 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:11.916 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.009 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.009 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.012 - INFO - creating snap7 client
+2025-03-21 14:14:12.012 - INFO - creating snap7 client
+2025-03-21 14:14:12.013 - INFO - destroying snap7 client
+2025-03-21 14:14:12.013 - INFO - destroying snap7 client
+2025-03-21 14:14:12.013 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.013 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.103 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.103 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.106 - INFO - creating snap7 client
+2025-03-21 14:14:12.106 - INFO - creating snap7 client
+2025-03-21 14:14:12.107 - INFO - destroying snap7 client
+2025-03-21 14:14:12.107 - INFO - destroying snap7 client
+2025-03-21 14:14:12.107 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.107 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.199 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.199 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.203 - INFO - creating snap7 client
+2025-03-21 14:14:12.203 - INFO - creating snap7 client
+2025-03-21 14:14:12.203 - INFO - destroying snap7 client
+2025-03-21 14:14:12.203 - INFO - destroying snap7 client
+2025-03-21 14:14:12.203 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.203 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.293 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.293 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.298 - INFO - creating snap7 client
+2025-03-21 14:14:12.298 - INFO - creating snap7 client
+2025-03-21 14:14:12.299 - INFO - destroying snap7 client
+2025-03-21 14:14:12.299 - INFO - destroying snap7 client
+2025-03-21 14:14:12.299 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.299 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.406 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.406 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.420 - INFO - creating snap7 client
+2025-03-21 14:14:12.420 - INFO - creating snap7 client
+2025-03-21 14:14:12.421 - INFO - destroying snap7 client
+2025-03-21 14:14:12.421 - INFO - destroying snap7 client
+2025-03-21 14:14:12.421 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.421 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.515 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.515 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.518 - INFO - creating snap7 client
+2025-03-21 14:14:12.518 - INFO - creating snap7 client
+2025-03-21 14:14:12.518 - INFO - destroying snap7 client
+2025-03-21 14:14:12.518 - INFO - destroying snap7 client
+2025-03-21 14:14:12.518 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.518 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.610 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.610 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.613 - INFO - creating snap7 client
+2025-03-21 14:14:12.613 - INFO - creating snap7 client
+2025-03-21 14:14:12.613 - INFO - destroying snap7 client
+2025-03-21 14:14:12.613 - INFO - destroying snap7 client
+2025-03-21 14:14:12.614 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.614 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.704 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.704 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.706 - INFO - creating snap7 client
+2025-03-21 14:14:12.706 - INFO - creating snap7 client
+2025-03-21 14:14:12.706 - INFO - destroying snap7 client
+2025-03-21 14:14:12.706 - INFO - destroying snap7 client
+2025-03-21 14:14:12.706 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.706 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.794 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.794 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.797 - INFO - creating snap7 client
+2025-03-21 14:14:12.797 - INFO - creating snap7 client
+2025-03-21 14:14:12.797 - INFO - destroying snap7 client
+2025-03-21 14:14:12.797 - INFO - destroying snap7 client
+2025-03-21 14:14:12.798 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.798 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.887 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.887 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.890 - INFO - creating snap7 client
+2025-03-21 14:14:12.890 - INFO - creating snap7 client
+2025-03-21 14:14:12.891 - INFO - destroying snap7 client
+2025-03-21 14:14:12.891 - INFO - destroying snap7 client
+2025-03-21 14:14:12.891 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.891 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.983 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.983 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:12.985 - INFO - creating snap7 client
+2025-03-21 14:14:12.985 - INFO - creating snap7 client
+2025-03-21 14:14:12.985 - INFO - destroying snap7 client
+2025-03-21 14:14:12.985 - INFO - destroying snap7 client
+2025-03-21 14:14:12.985 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:12.985 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.073 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.073 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.075 - INFO - creating snap7 client
+2025-03-21 14:14:13.075 - INFO - creating snap7 client
+2025-03-21 14:14:13.076 - INFO - destroying snap7 client
+2025-03-21 14:14:13.076 - INFO - destroying snap7 client
+2025-03-21 14:14:13.076 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.076 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.164 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.164 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.167 - INFO - creating snap7 client
+2025-03-21 14:14:13.167 - INFO - creating snap7 client
+2025-03-21 14:14:13.167 - INFO - destroying snap7 client
+2025-03-21 14:14:13.167 - INFO - destroying snap7 client
+2025-03-21 14:14:13.167 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.167 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.258 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.258 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.261 - INFO - creating snap7 client
+2025-03-21 14:14:13.261 - INFO - creating snap7 client
+2025-03-21 14:14:13.261 - INFO - destroying snap7 client
+2025-03-21 14:14:13.261 - INFO - destroying snap7 client
+2025-03-21 14:14:13.262 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.262 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.360 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.360 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.363 - INFO - creating snap7 client
+2025-03-21 14:14:13.363 - INFO - creating snap7 client
+2025-03-21 14:14:13.363 - INFO - destroying snap7 client
+2025-03-21 14:14:13.363 - INFO - destroying snap7 client
+2025-03-21 14:14:13.364 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.364 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.466 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.466 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.476 - INFO - creating snap7 client
+2025-03-21 14:14:13.476 - INFO - creating snap7 client
+2025-03-21 14:14:13.476 - INFO - destroying snap7 client
+2025-03-21 14:14:13.476 - INFO - destroying snap7 client
+2025-03-21 14:14:13.477 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.477 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.568 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.568 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.571 - INFO - creating snap7 client
+2025-03-21 14:14:13.571 - INFO - creating snap7 client
+2025-03-21 14:14:13.571 - INFO - destroying snap7 client
+2025-03-21 14:14:13.571 - INFO - destroying snap7 client
+2025-03-21 14:14:13.571 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.571 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.661 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.661 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.664 - INFO - creating snap7 client
+2025-03-21 14:14:13.664 - INFO - creating snap7 client
+2025-03-21 14:14:13.664 - INFO - destroying snap7 client
+2025-03-21 14:14:13.664 - INFO - destroying snap7 client
+2025-03-21 14:14:13.664 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.664 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.752 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.752 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.755 - INFO - creating snap7 client
+2025-03-21 14:14:13.755 - INFO - creating snap7 client
+2025-03-21 14:14:13.755 - INFO - destroying snap7 client
+2025-03-21 14:14:13.755 - INFO - destroying snap7 client
+2025-03-21 14:14:13.755 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.755 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.845 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.845 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.847 - INFO - creating snap7 client
+2025-03-21 14:14:13.847 - INFO - creating snap7 client
+2025-03-21 14:14:13.847 - INFO - destroying snap7 client
+2025-03-21 14:14:13.847 - INFO - destroying snap7 client
+2025-03-21 14:14:13.848 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.848 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.933 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.933 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:13.935 - INFO - creating snap7 client
+2025-03-21 14:14:13.935 - INFO - creating snap7 client
+2025-03-21 14:14:13.935 - INFO - destroying snap7 client
+2025-03-21 14:14:13.935 - INFO - destroying snap7 client
+2025-03-21 14:14:13.935 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:13.935 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.023 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.023 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.025 - INFO - creating snap7 client
+2025-03-21 14:14:14.025 - INFO - creating snap7 client
+2025-03-21 14:14:14.025 - INFO - destroying snap7 client
+2025-03-21 14:14:14.025 - INFO - destroying snap7 client
+2025-03-21 14:14:14.026 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.026 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.119 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.119 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.121 - INFO - creating snap7 client
+2025-03-21 14:14:14.121 - INFO - creating snap7 client
+2025-03-21 14:14:14.121 - INFO - destroying snap7 client
+2025-03-21 14:14:14.121 - INFO - destroying snap7 client
+2025-03-21 14:14:14.121 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.121 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.209 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.209 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.211 - INFO - creating snap7 client
+2025-03-21 14:14:14.211 - INFO - creating snap7 client
+2025-03-21 14:14:14.212 - INFO - destroying snap7 client
+2025-03-21 14:14:14.212 - INFO - destroying snap7 client
+2025-03-21 14:14:14.212 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.212 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.305 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.305 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.308 - INFO - creating snap7 client
+2025-03-21 14:14:14.308 - INFO - creating snap7 client
+2025-03-21 14:14:14.308 - INFO - destroying snap7 client
+2025-03-21 14:14:14.308 - INFO - destroying snap7 client
+2025-03-21 14:14:14.309 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.309 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.408 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.408 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.412 - INFO - creating snap7 client
+2025-03-21 14:14:14.412 - INFO - creating snap7 client
+2025-03-21 14:14:14.412 - INFO - destroying snap7 client
+2025-03-21 14:14:14.412 - INFO - destroying snap7 client
+2025-03-21 14:14:14.412 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.412 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.510 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.510 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.521 - INFO - creating snap7 client
+2025-03-21 14:14:14.521 - INFO - creating snap7 client
+2025-03-21 14:14:14.521 - INFO - destroying snap7 client
+2025-03-21 14:14:14.521 - INFO - destroying snap7 client
+2025-03-21 14:14:14.521 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.521 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.610 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.610 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.612 - INFO - creating snap7 client
+2025-03-21 14:14:14.612 - INFO - creating snap7 client
+2025-03-21 14:14:14.612 - INFO - destroying snap7 client
+2025-03-21 14:14:14.612 - INFO - destroying snap7 client
+2025-03-21 14:14:14.613 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.613 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.701 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.701 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.704 - INFO - creating snap7 client
+2025-03-21 14:14:14.704 - INFO - creating snap7 client
+2025-03-21 14:14:14.704 - INFO - destroying snap7 client
+2025-03-21 14:14:14.704 - INFO - destroying snap7 client
+2025-03-21 14:14:14.705 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.705 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.796 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.796 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.803 - INFO - creating snap7 client
+2025-03-21 14:14:14.803 - INFO - creating snap7 client
+2025-03-21 14:14:14.803 - INFO - destroying snap7 client
+2025-03-21 14:14:14.803 - INFO - destroying snap7 client
+2025-03-21 14:14:14.803 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.803 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.893 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.893 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.895 - INFO - creating snap7 client
+2025-03-21 14:14:14.895 - INFO - creating snap7 client
+2025-03-21 14:14:14.895 - INFO - destroying snap7 client
+2025-03-21 14:14:14.895 - INFO - destroying snap7 client
+2025-03-21 14:14:14.895 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.895 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.981 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.981 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:14.984 - INFO - creating snap7 client
+2025-03-21 14:14:14.984 - INFO - creating snap7 client
+2025-03-21 14:14:14.985 - INFO - destroying snap7 client
+2025-03-21 14:14:14.985 - INFO - destroying snap7 client
+2025-03-21 14:14:14.985 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:14.985 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.072 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.072 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.076 - INFO - creating snap7 client
+2025-03-21 14:14:15.076 - INFO - creating snap7 client
+2025-03-21 14:14:15.076 - INFO - destroying snap7 client
+2025-03-21 14:14:15.076 - INFO - destroying snap7 client
+2025-03-21 14:14:15.076 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.076 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.162 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.162 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.164 - INFO - creating snap7 client
+2025-03-21 14:14:15.164 - INFO - creating snap7 client
+2025-03-21 14:14:15.164 - INFO - destroying snap7 client
+2025-03-21 14:14:15.164 - INFO - destroying snap7 client
+2025-03-21 14:14:15.164 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.164 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.252 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.252 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.254 - INFO - creating snap7 client
+2025-03-21 14:14:15.254 - INFO - creating snap7 client
+2025-03-21 14:14:15.255 - INFO - destroying snap7 client
+2025-03-21 14:14:15.255 - INFO - destroying snap7 client
+2025-03-21 14:14:15.255 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.255 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.342 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.342 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.344 - INFO - creating snap7 client
+2025-03-21 14:14:15.344 - INFO - creating snap7 client
+2025-03-21 14:14:15.345 - INFO - destroying snap7 client
+2025-03-21 14:14:15.345 - INFO - destroying snap7 client
+2025-03-21 14:14:15.345 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.345 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.446 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.446 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.448 - INFO - creating snap7 client
+2025-03-21 14:14:15.448 - INFO - creating snap7 client
+2025-03-21 14:14:15.448 - INFO - destroying snap7 client
+2025-03-21 14:14:15.448 - INFO - destroying snap7 client
+2025-03-21 14:14:15.449 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.449 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.552 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.552 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.565 - INFO - creating snap7 client
+2025-03-21 14:14:15.565 - INFO - creating snap7 client
+2025-03-21 14:14:15.566 - INFO - destroying snap7 client
+2025-03-21 14:14:15.566 - INFO - destroying snap7 client
+2025-03-21 14:14:15.566 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.566 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.658 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.658 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.661 - INFO - creating snap7 client
+2025-03-21 14:14:15.661 - INFO - creating snap7 client
+2025-03-21 14:14:15.661 - INFO - destroying snap7 client
+2025-03-21 14:14:15.661 - INFO - destroying snap7 client
+2025-03-21 14:14:15.661 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.661 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.755 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.755 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.758 - INFO - creating snap7 client
+2025-03-21 14:14:15.758 - INFO - creating snap7 client
+2025-03-21 14:14:15.758 - INFO - destroying snap7 client
+2025-03-21 14:14:15.758 - INFO - destroying snap7 client
+2025-03-21 14:14:15.758 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.758 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.847 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.847 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.849 - INFO - creating snap7 client
+2025-03-21 14:14:15.849 - INFO - creating snap7 client
+2025-03-21 14:14:15.849 - INFO - destroying snap7 client
+2025-03-21 14:14:15.849 - INFO - destroying snap7 client
+2025-03-21 14:14:15.849 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.849 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.941 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.941 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:15.945 - INFO - creating snap7 client
+2025-03-21 14:14:15.945 - INFO - creating snap7 client
+2025-03-21 14:14:15.945 - INFO - destroying snap7 client
+2025-03-21 14:14:15.945 - INFO - destroying snap7 client
+2025-03-21 14:14:15.946 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:15.946 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.036 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.036 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.038 - INFO - creating snap7 client
+2025-03-21 14:14:16.038 - INFO - creating snap7 client
+2025-03-21 14:14:16.039 - INFO - destroying snap7 client
+2025-03-21 14:14:16.039 - INFO - destroying snap7 client
+2025-03-21 14:14:16.039 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.039 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.131 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.131 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.136 - INFO - creating snap7 client
+2025-03-21 14:14:16.136 - INFO - creating snap7 client
+2025-03-21 14:14:16.136 - INFO - destroying snap7 client
+2025-03-21 14:14:16.136 - INFO - destroying snap7 client
+2025-03-21 14:14:16.136 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.136 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.224 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.224 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.226 - INFO - creating snap7 client
+2025-03-21 14:14:16.226 - INFO - creating snap7 client
+2025-03-21 14:14:16.228 - INFO - destroying snap7 client
+2025-03-21 14:14:16.228 - INFO - destroying snap7 client
+2025-03-21 14:14:16.228 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.228 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.323 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.323 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.333 - INFO - creating snap7 client
+2025-03-21 14:14:16.333 - INFO - creating snap7 client
+2025-03-21 14:14:16.334 - INFO - destroying snap7 client
+2025-03-21 14:14:16.334 - INFO - destroying snap7 client
+2025-03-21 14:14:16.334 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.334 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.431 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.431 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.438 - INFO - creating snap7 client
+2025-03-21 14:14:16.438 - INFO - creating snap7 client
+2025-03-21 14:14:16.438 - INFO - destroying snap7 client
+2025-03-21 14:14:16.438 - INFO - destroying snap7 client
+2025-03-21 14:14:16.438 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.438 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.558 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.558 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.577 - INFO - creating snap7 client
+2025-03-21 14:14:16.577 - INFO - creating snap7 client
+2025-03-21 14:14:16.577 - INFO - destroying snap7 client
+2025-03-21 14:14:16.577 - INFO - destroying snap7 client
+2025-03-21 14:14:16.577 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.577 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.669 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.669 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.679 - INFO - creating snap7 client
+2025-03-21 14:14:16.679 - INFO - creating snap7 client
+2025-03-21 14:14:16.679 - INFO - destroying snap7 client
+2025-03-21 14:14:16.679 - INFO - destroying snap7 client
+2025-03-21 14:14:16.680 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.680 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.774 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.774 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.786 - INFO - creating snap7 client
+2025-03-21 14:14:16.786 - INFO - creating snap7 client
+2025-03-21 14:14:16.786 - INFO - destroying snap7 client
+2025-03-21 14:14:16.786 - INFO - destroying snap7 client
+2025-03-21 14:14:16.786 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.786 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.882 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.882 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.895 - INFO - creating snap7 client
+2025-03-21 14:14:16.895 - INFO - creating snap7 client
+2025-03-21 14:14:16.895 - INFO - destroying snap7 client
+2025-03-21 14:14:16.895 - INFO - destroying snap7 client
+2025-03-21 14:14:16.895 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.895 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.985 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.985 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:16.986 - INFO - creating snap7 client
+2025-03-21 14:14:16.986 - INFO - creating snap7 client
+2025-03-21 14:14:16.987 - INFO - destroying snap7 client
+2025-03-21 14:14:16.987 - INFO - destroying snap7 client
+2025-03-21 14:14:16.987 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:16.987 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.074 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.074 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.076 - INFO - creating snap7 client
+2025-03-21 14:14:17.076 - INFO - creating snap7 client
+2025-03-21 14:14:17.076 - INFO - destroying snap7 client
+2025-03-21 14:14:17.076 - INFO - destroying snap7 client
+2025-03-21 14:14:17.077 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.077 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.162 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.162 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.165 - INFO - creating snap7 client
+2025-03-21 14:14:17.165 - INFO - creating snap7 client
+2025-03-21 14:14:17.165 - INFO - destroying snap7 client
+2025-03-21 14:14:17.165 - INFO - destroying snap7 client
+2025-03-21 14:14:17.165 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.165 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.253 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.253 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.256 - INFO - creating snap7 client
+2025-03-21 14:14:17.256 - INFO - creating snap7 client
+2025-03-21 14:14:17.256 - INFO - destroying snap7 client
+2025-03-21 14:14:17.256 - INFO - destroying snap7 client
+2025-03-21 14:14:17.257 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.257 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.366 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.366 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.368 - INFO - creating snap7 client
+2025-03-21 14:14:17.368 - INFO - creating snap7 client
+2025-03-21 14:14:17.368 - INFO - destroying snap7 client
+2025-03-21 14:14:17.368 - INFO - destroying snap7 client
+2025-03-21 14:14:17.368 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.368 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.460 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.460 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.464 - INFO - creating snap7 client
+2025-03-21 14:14:17.464 - INFO - creating snap7 client
+2025-03-21 14:14:17.464 - INFO - destroying snap7 client
+2025-03-21 14:14:17.464 - INFO - destroying snap7 client
+2025-03-21 14:14:17.464 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.464 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.564 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.564 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.570 - INFO - creating snap7 client
+2025-03-21 14:14:17.570 - INFO - creating snap7 client
+2025-03-21 14:14:17.570 - INFO - destroying snap7 client
+2025-03-21 14:14:17.570 - INFO - destroying snap7 client
+2025-03-21 14:14:17.570 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.570 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.680 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.680 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.701 - INFO - creating snap7 client
+2025-03-21 14:14:17.701 - INFO - creating snap7 client
+2025-03-21 14:14:17.701 - INFO - destroying snap7 client
+2025-03-21 14:14:17.701 - INFO - destroying snap7 client
+2025-03-21 14:14:17.703 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.703 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.814 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.814 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33868 and this is thread id 32876.
+2025-03-21 14:14:17.817 - INFO - creating snap7 client
+2025-03-21 14:14:17.817 - INFO - creating snap7 client
+2025-03-21 14:14:17.817 - INFO - destroying snap7 client
+2025-03-21 14:14:17.817 - INFO - destroying snap7 client
+2025-03-21 14:14:17.817 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:14:17.817 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:09.630 - INFO - creating snap7 client
+2025-03-21 14:31:09.630 - INFO - creating snap7 client
+2025-03-21 14:31:13.119 - INFO - creating snap7 client
+2025-03-21 14:31:13.119 - INFO - creating snap7 client
+2025-03-21 14:31:13.119 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:13.119 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:13.374 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:13.374 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:13.374 - INFO - creating snap7 client
+2025-03-21 14:31:13.374 - INFO - creating snap7 client
+2025-03-21 14:31:13.374 - INFO - destroying snap7 client
+2025-03-21 14:31:13.374 - INFO - destroying snap7 client
+2025-03-21 14:31:13.374 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:13.374 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:13.676 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:13.676 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:13.676 - INFO - creating snap7 client
+2025-03-21 14:31:13.676 - INFO - creating snap7 client
+2025-03-21 14:31:13.676 - INFO - destroying snap7 client
+2025-03-21 14:31:13.676 - INFO - destroying snap7 client
+2025-03-21 14:31:13.676 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:13.676 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:13.948 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:13.948 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:13.948 - INFO - creating snap7 client
+2025-03-21 14:31:13.948 - INFO - creating snap7 client
+2025-03-21 14:31:13.949 - INFO - destroying snap7 client
+2025-03-21 14:31:13.949 - INFO - destroying snap7 client
+2025-03-21 14:31:13.949 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:13.949 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:14.218 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:14.218 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:14.218 - INFO - creating snap7 client
+2025-03-21 14:31:14.218 - INFO - creating snap7 client
+2025-03-21 14:31:14.218 - INFO - destroying snap7 client
+2025-03-21 14:31:14.218 - INFO - destroying snap7 client
+2025-03-21 14:31:14.218 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:14.218 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:14.491 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:14.491 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:14.491 - INFO - creating snap7 client
+2025-03-21 14:31:14.491 - INFO - creating snap7 client
+2025-03-21 14:31:14.491 - INFO - destroying snap7 client
+2025-03-21 14:31:14.491 - INFO - destroying snap7 client
+2025-03-21 14:31:14.491 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:14.491 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:14.784 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:14.784 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:14.784 - INFO - creating snap7 client
+2025-03-21 14:31:14.784 - INFO - creating snap7 client
+2025-03-21 14:31:14.784 - INFO - destroying snap7 client
+2025-03-21 14:31:14.784 - INFO - destroying snap7 client
+2025-03-21 14:31:14.784 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:14.784 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:15.073 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:15.073 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:15.073 - INFO - creating snap7 client
+2025-03-21 14:31:15.073 - INFO - creating snap7 client
+2025-03-21 14:31:15.073 - INFO - destroying snap7 client
+2025-03-21 14:31:15.073 - INFO - destroying snap7 client
+2025-03-21 14:31:15.073 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:15.073 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:15.347 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:15.347 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:15.347 - INFO - creating snap7 client
+2025-03-21 14:31:15.347 - INFO - creating snap7 client
+2025-03-21 14:31:15.347 - INFO - destroying snap7 client
+2025-03-21 14:31:15.347 - INFO - destroying snap7 client
+2025-03-21 14:31:15.348 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:15.348 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:15.623 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:15.623 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:15.623 - INFO - creating snap7 client
+2025-03-21 14:31:15.623 - INFO - creating snap7 client
+2025-03-21 14:31:15.623 - INFO - destroying snap7 client
+2025-03-21 14:31:15.623 - INFO - destroying snap7 client
+2025-03-21 14:31:15.623 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:15.623 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:15.907 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:15.907 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:15.907 - INFO - creating snap7 client
+2025-03-21 14:31:15.907 - INFO - creating snap7 client
+2025-03-21 14:31:15.907 - INFO - destroying snap7 client
+2025-03-21 14:31:15.907 - INFO - destroying snap7 client
+2025-03-21 14:31:15.907 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:15.907 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:16.177 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:16.177 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:16.177 - INFO - creating snap7 client
+2025-03-21 14:31:16.177 - INFO - creating snap7 client
+2025-03-21 14:31:16.177 - INFO - destroying snap7 client
+2025-03-21 14:31:16.177 - INFO - destroying snap7 client
+2025-03-21 14:31:16.177 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:16.177 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:16.477 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:16.477 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:16.477 - INFO - creating snap7 client
+2025-03-21 14:31:16.477 - INFO - creating snap7 client
+2025-03-21 14:31:16.477 - INFO - destroying snap7 client
+2025-03-21 14:31:16.477 - INFO - destroying snap7 client
+2025-03-21 14:31:16.477 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:16.477 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:16.774 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:16.774 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:16.774 - INFO - creating snap7 client
+2025-03-21 14:31:16.774 - INFO - creating snap7 client
+2025-03-21 14:31:16.774 - INFO - destroying snap7 client
+2025-03-21 14:31:16.774 - INFO - destroying snap7 client
+2025-03-21 14:31:16.774 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:16.774 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:17.046 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:17.046 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:17.046 - INFO - creating snap7 client
+2025-03-21 14:31:17.046 - INFO - creating snap7 client
+2025-03-21 14:31:17.046 - INFO - destroying snap7 client
+2025-03-21 14:31:17.046 - INFO - destroying snap7 client
+2025-03-21 14:31:17.046 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:17.046 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:17.327 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:17.327 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:17.327 - INFO - creating snap7 client
+2025-03-21 14:31:17.327 - INFO - creating snap7 client
+2025-03-21 14:31:17.327 - INFO - destroying snap7 client
+2025-03-21 14:31:17.327 - INFO - destroying snap7 client
+2025-03-21 14:31:17.327 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:17.327 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:17.597 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:17.597 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:17.597 - INFO - creating snap7 client
+2025-03-21 14:31:17.597 - INFO - creating snap7 client
+2025-03-21 14:31:17.597 - INFO - destroying snap7 client
+2025-03-21 14:31:17.597 - INFO - destroying snap7 client
+2025-03-21 14:31:17.597 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:17.597 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:17.883 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:17.883 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:17.883 - INFO - creating snap7 client
+2025-03-21 14:31:17.883 - INFO - creating snap7 client
+2025-03-21 14:31:17.883 - INFO - destroying snap7 client
+2025-03-21 14:31:17.883 - INFO - destroying snap7 client
+2025-03-21 14:31:17.883 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:17.883 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:17.885 - ERROR - b' TCP : Unreachable peer'
+2025-03-21 14:31:17.885 - ERROR - b' TCP : Unreachable peer'
+2025-03-21 14:31:17.885 - WARNING - 连接重试 1/3: b' TCP : Unreachable peer'
+2025-03-21 14:31:17.885 - WARNING - 连接重试 1/3: b' TCP : Unreachable peer'
+2025-03-21 14:31:17.885 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:17.885 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:18.159 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:18.159 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:18.159 - INFO - creating snap7 client
+2025-03-21 14:31:18.159 - INFO - creating snap7 client
+2025-03-21 14:31:18.159 - INFO - destroying snap7 client
+2025-03-21 14:31:18.159 - INFO - destroying snap7 client
+2025-03-21 14:31:18.159 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:18.159 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:18.453 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:18.453 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:18.453 - INFO - creating snap7 client
+2025-03-21 14:31:18.453 - INFO - creating snap7 client
+2025-03-21 14:31:18.453 - INFO - destroying snap7 client
+2025-03-21 14:31:18.453 - INFO - destroying snap7 client
+2025-03-21 14:31:18.453 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:18.453 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:18.736 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:18.736 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:18.736 - INFO - creating snap7 client
+2025-03-21 14:31:18.736 - INFO - creating snap7 client
+2025-03-21 14:31:18.736 - INFO - destroying snap7 client
+2025-03-21 14:31:18.736 - INFO - destroying snap7 client
+2025-03-21 14:31:18.736 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:18.736 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:19.031 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:19.031 - ERROR - 查询出错: could not convert string to float: 'DB36'
+2025-03-21 14:31:19.032 - INFO - creating snap7 client
+2025-03-21 14:31:19.032 - INFO - creating snap7 client
+2025-03-21 14:31:19.032 - INFO - destroying snap7 client
+2025-03-21 14:31:19.032 - INFO - destroying snap7 client
+2025-03-21 14:31:19.032 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:19.032 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:22.231 - INFO - creating snap7 client
+2025-03-21 14:31:22.231 - INFO - creating snap7 client
+2025-03-21 14:31:36.977 - INFO - creating snap7 client
+2025-03-21 14:31:36.977 - INFO - creating snap7 client
+2025-03-21 14:31:36.977 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:36.977 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:37.292 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:37.292 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:37.326 - INFO - creating snap7 client
+2025-03-21 14:31:37.326 - INFO - creating snap7 client
+2025-03-21 14:31:37.327 - INFO - destroying snap7 client
+2025-03-21 14:31:37.327 - INFO - destroying snap7 client
+2025-03-21 14:31:37.327 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:37.327 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:37.869 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:37.869 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:37.884 - INFO - creating snap7 client
+2025-03-21 14:31:37.884 - INFO - creating snap7 client
+2025-03-21 14:31:37.885 - INFO - destroying snap7 client
+2025-03-21 14:31:37.885 - INFO - destroying snap7 client
+2025-03-21 14:31:37.885 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:37.885 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:38.467 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:38.467 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:38.481 - INFO - creating snap7 client
+2025-03-21 14:31:38.481 - INFO - creating snap7 client
+2025-03-21 14:31:38.482 - INFO - destroying snap7 client
+2025-03-21 14:31:38.482 - INFO - destroying snap7 client
+2025-03-21 14:31:38.482 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:38.482 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:39.019 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:39.019 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:39.034 - INFO - creating snap7 client
+2025-03-21 14:31:39.034 - INFO - creating snap7 client
+2025-03-21 14:31:39.034 - INFO - destroying snap7 client
+2025-03-21 14:31:39.034 - INFO - destroying snap7 client
+2025-03-21 14:31:39.034 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:39.034 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:39.643 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:39.643 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:39.655 - INFO - creating snap7 client
+2025-03-21 14:31:39.655 - INFO - creating snap7 client
+2025-03-21 14:31:39.656 - INFO - destroying snap7 client
+2025-03-21 14:31:39.656 - INFO - destroying snap7 client
+2025-03-21 14:31:39.656 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:39.656 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:40.180 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:40.180 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:40.193 - INFO - creating snap7 client
+2025-03-21 14:31:40.193 - INFO - creating snap7 client
+2025-03-21 14:31:40.193 - INFO - destroying snap7 client
+2025-03-21 14:31:40.193 - INFO - destroying snap7 client
+2025-03-21 14:31:40.193 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:40.193 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:40.735 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:40.735 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:40.749 - INFO - creating snap7 client
+2025-03-21 14:31:40.749 - INFO - creating snap7 client
+2025-03-21 14:31:40.750 - INFO - destroying snap7 client
+2025-03-21 14:31:40.750 - INFO - destroying snap7 client
+2025-03-21 14:31:40.750 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:40.750 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:41.297 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:41.297 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:41.309 - INFO - creating snap7 client
+2025-03-21 14:31:41.309 - INFO - creating snap7 client
+2025-03-21 14:31:41.309 - INFO - destroying snap7 client
+2025-03-21 14:31:41.309 - INFO - destroying snap7 client
+2025-03-21 14:31:41.310 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:41.310 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:41.850 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:41.850 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:41.864 - INFO - creating snap7 client
+2025-03-21 14:31:41.864 - INFO - creating snap7 client
+2025-03-21 14:31:41.864 - INFO - destroying snap7 client
+2025-03-21 14:31:41.864 - INFO - destroying snap7 client
+2025-03-21 14:31:41.864 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:41.864 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:42.396 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:42.396 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:42.436 - INFO - creating snap7 client
+2025-03-21 14:31:42.436 - INFO - creating snap7 client
+2025-03-21 14:31:42.436 - INFO - destroying snap7 client
+2025-03-21 14:31:42.436 - INFO - destroying snap7 client
+2025-03-21 14:31:42.436 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:42.436 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:42.991 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:42.991 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:43.006 - INFO - creating snap7 client
+2025-03-21 14:31:43.006 - INFO - creating snap7 client
+2025-03-21 14:31:43.006 - INFO - destroying snap7 client
+2025-03-21 14:31:43.006 - INFO - destroying snap7 client
+2025-03-21 14:31:43.006 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:43.006 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:43.609 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:43.609 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:43.623 - INFO - creating snap7 client
+2025-03-21 14:31:43.623 - INFO - creating snap7 client
+2025-03-21 14:31:43.623 - INFO - destroying snap7 client
+2025-03-21 14:31:43.623 - INFO - destroying snap7 client
+2025-03-21 14:31:43.623 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:43.623 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:44.192 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:44.192 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:44.205 - INFO - creating snap7 client
+2025-03-21 14:31:44.205 - INFO - creating snap7 client
+2025-03-21 14:31:44.205 - INFO - destroying snap7 client
+2025-03-21 14:31:44.205 - INFO - destroying snap7 client
+2025-03-21 14:31:44.205 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:44.205 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:44.743 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:44.743 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:44.754 - INFO - creating snap7 client
+2025-03-21 14:31:44.754 - INFO - creating snap7 client
+2025-03-21 14:31:44.755 - INFO - destroying snap7 client
+2025-03-21 14:31:44.755 - INFO - destroying snap7 client
+2025-03-21 14:31:44.755 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:44.755 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:45.292 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:45.292 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:45.304 - INFO - creating snap7 client
+2025-03-21 14:31:45.304 - INFO - creating snap7 client
+2025-03-21 14:31:45.304 - INFO - destroying snap7 client
+2025-03-21 14:31:45.304 - INFO - destroying snap7 client
+2025-03-21 14:31:45.304 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:45.304 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:45.837 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:45.837 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:45.850 - INFO - creating snap7 client
+2025-03-21 14:31:45.850 - INFO - creating snap7 client
+2025-03-21 14:31:45.850 - INFO - destroying snap7 client
+2025-03-21 14:31:45.850 - INFO - destroying snap7 client
+2025-03-21 14:31:45.850 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:45.850 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:46.368 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:46.368 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:46.380 - INFO - creating snap7 client
+2025-03-21 14:31:46.380 - INFO - creating snap7 client
+2025-03-21 14:31:46.380 - INFO - destroying snap7 client
+2025-03-21 14:31:46.380 - INFO - destroying snap7 client
+2025-03-21 14:31:46.380 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:46.380 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:46.385 - ERROR - b' TCP : Unreachable peer'
+2025-03-21 14:31:46.385 - ERROR - b' TCP : Unreachable peer'
+2025-03-21 14:31:46.385 - WARNING - 连接重试 1/3: b' TCP : Unreachable peer'
+2025-03-21 14:31:46.385 - WARNING - 连接重试 1/3: b' TCP : Unreachable peer'
+2025-03-21 14:31:46.385 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:46.385 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:46.919 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:46.919 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:46.931 - INFO - creating snap7 client
+2025-03-21 14:31:46.931 - INFO - creating snap7 client
+2025-03-21 14:31:46.931 - INFO - destroying snap7 client
+2025-03-21 14:31:46.931 - INFO - destroying snap7 client
+2025-03-21 14:31:46.932 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:46.932 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:47.451 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:47.451 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:47.464 - INFO - creating snap7 client
+2025-03-21 14:31:47.464 - INFO - creating snap7 client
+2025-03-21 14:31:47.464 - INFO - destroying snap7 client
+2025-03-21 14:31:47.464 - INFO - destroying snap7 client
+2025-03-21 14:31:47.464 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:47.464 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:48.018 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:48.018 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:48.030 - INFO - creating snap7 client
+2025-03-21 14:31:48.030 - INFO - creating snap7 client
+2025-03-21 14:31:48.030 - INFO - destroying snap7 client
+2025-03-21 14:31:48.030 - INFO - destroying snap7 client
+2025-03-21 14:31:48.031 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:48.031 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:48.740 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:48.740 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:48.762 - INFO - creating snap7 client
+2025-03-21 14:31:48.762 - INFO - creating snap7 client
+2025-03-21 14:31:48.762 - INFO - destroying snap7 client
+2025-03-21 14:31:48.762 - INFO - destroying snap7 client
+2025-03-21 14:31:48.762 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:48.762 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:49.366 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:49.366 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:49.378 - INFO - creating snap7 client
+2025-03-21 14:31:49.378 - INFO - creating snap7 client
+2025-03-21 14:31:49.379 - INFO - destroying snap7 client
+2025-03-21 14:31:49.379 - INFO - destroying snap7 client
+2025-03-21 14:31:49.379 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:49.379 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:49.385 - ERROR - b' TCP : Unreachable peer'
+2025-03-21 14:31:49.385 - ERROR - b' TCP : Unreachable peer'
+2025-03-21 14:31:49.385 - WARNING - 连接重试 1/3: b' TCP : Unreachable peer'
+2025-03-21 14:31:49.385 - WARNING - 连接重试 1/3: b' TCP : Unreachable peer'
+2025-03-21 14:31:49.385 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:49.385 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:49.942 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:49.942 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:49.957 - INFO - creating snap7 client
+2025-03-21 14:31:49.957 - INFO - creating snap7 client
+2025-03-21 14:31:49.957 - INFO - destroying snap7 client
+2025-03-21 14:31:49.957 - INFO - destroying snap7 client
+2025-03-21 14:31:49.957 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:49.957 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:50.513 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:50.513 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:50.528 - INFO - creating snap7 client
+2025-03-21 14:31:50.528 - INFO - creating snap7 client
+2025-03-21 14:31:50.528 - INFO - destroying snap7 client
+2025-03-21 14:31:50.528 - INFO - destroying snap7 client
+2025-03-21 14:31:50.528 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:50.528 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:51.075 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:51.075 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:51.088 - INFO - creating snap7 client
+2025-03-21 14:31:51.088 - INFO - creating snap7 client
+2025-03-21 14:31:51.089 - INFO - destroying snap7 client
+2025-03-21 14:31:51.089 - INFO - destroying snap7 client
+2025-03-21 14:31:51.089 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:51.089 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:51.943 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:51.943 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:51.956 - INFO - creating snap7 client
+2025-03-21 14:31:51.956 - INFO - creating snap7 client
+2025-03-21 14:31:51.956 - INFO - destroying snap7 client
+2025-03-21 14:31:51.956 - INFO - destroying snap7 client
+2025-03-21 14:31:51.956 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:51.956 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:52.535 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:52.535 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:52.552 - INFO - creating snap7 client
+2025-03-21 14:31:52.552 - INFO - creating snap7 client
+2025-03-21 14:31:52.552 - INFO - destroying snap7 client
+2025-03-21 14:31:52.552 - INFO - destroying snap7 client
+2025-03-21 14:31:52.552 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:52.552 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:53.386 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:53.386 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:53.399 - INFO - creating snap7 client
+2025-03-21 14:31:53.399 - INFO - creating snap7 client
+2025-03-21 14:31:53.399 - INFO - destroying snap7 client
+2025-03-21 14:31:53.399 - INFO - destroying snap7 client
+2025-03-21 14:31:53.399 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:53.399 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:54.011 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:54.011 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 33720 and this is thread id 30840.
+2025-03-21 14:31:54.024 - INFO - creating snap7 client
+2025-03-21 14:31:54.024 - INFO - creating snap7 client
+2025-03-21 14:31:54.024 - INFO - destroying snap7 client
+2025-03-21 14:31:54.024 - INFO - destroying snap7 client
+2025-03-21 14:31:54.024 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:54.024 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 14:31:58.080 - INFO - creating snap7 client
+2025-03-21 14:31:58.080 - INFO - creating snap7 client
+2025-03-21 17:01:11.378 - INFO - creating snap7 client
+2025-03-21 17:01:11.378 - INFO - creating snap7 client
+2025-03-21 17:01:56.846 - INFO - creating snap7 client
+2025-03-21 17:01:56.846 - INFO - creating snap7 client
+2025-03-21 17:01:56.846 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:01:56.846 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:01:57.237 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:01:57.237 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:01:57.237 - INFO - creating snap7 client
+2025-03-21 17:01:57.237 - INFO - creating snap7 client
+2025-03-21 17:01:57.237 - INFO - destroying snap7 client
+2025-03-21 17:01:57.237 - INFO - destroying snap7 client
+2025-03-21 17:01:57.238 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:01:57.238 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:01:57.854 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:01:57.854 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:01:57.869 - INFO - creating snap7 client
+2025-03-21 17:01:57.869 - INFO - creating snap7 client
+2025-03-21 17:01:57.869 - INFO - destroying snap7 client
+2025-03-21 17:01:57.869 - INFO - destroying snap7 client
+2025-03-21 17:01:57.869 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:01:57.869 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:01:58.458 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:01:58.458 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:01:58.471 - INFO - creating snap7 client
+2025-03-21 17:01:58.471 - INFO - creating snap7 client
+2025-03-21 17:01:58.472 - INFO - destroying snap7 client
+2025-03-21 17:01:58.472 - INFO - destroying snap7 client
+2025-03-21 17:01:58.472 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:01:58.472 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:01:59.034 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:01:59.034 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:01:59.051 - INFO - creating snap7 client
+2025-03-21 17:01:59.051 - INFO - creating snap7 client
+2025-03-21 17:01:59.051 - INFO - destroying snap7 client
+2025-03-21 17:01:59.051 - INFO - destroying snap7 client
+2025-03-21 17:01:59.051 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:01:59.051 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:01:59.593 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:01:59.593 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:01:59.607 - INFO - creating snap7 client
+2025-03-21 17:01:59.607 - INFO - creating snap7 client
+2025-03-21 17:01:59.607 - INFO - destroying snap7 client
+2025-03-21 17:01:59.607 - INFO - destroying snap7 client
+2025-03-21 17:01:59.607 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:01:59.607 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:00.172 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:00.172 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:00.217 - INFO - creating snap7 client
+2025-03-21 17:02:00.217 - INFO - creating snap7 client
+2025-03-21 17:02:00.217 - INFO - destroying snap7 client
+2025-03-21 17:02:00.217 - INFO - destroying snap7 client
+2025-03-21 17:02:00.217 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:00.217 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:00.772 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:00.772 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:00.786 - INFO - creating snap7 client
+2025-03-21 17:02:00.786 - INFO - creating snap7 client
+2025-03-21 17:02:00.786 - INFO - destroying snap7 client
+2025-03-21 17:02:00.786 - INFO - destroying snap7 client
+2025-03-21 17:02:00.786 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:00.786 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:01.397 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:01.397 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:01.412 - INFO - creating snap7 client
+2025-03-21 17:02:01.412 - INFO - creating snap7 client
+2025-03-21 17:02:01.412 - INFO - destroying snap7 client
+2025-03-21 17:02:01.412 - INFO - destroying snap7 client
+2025-03-21 17:02:01.412 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:01.412 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:02.050 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:02.050 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:02.067 - INFO - creating snap7 client
+2025-03-21 17:02:02.067 - INFO - creating snap7 client
+2025-03-21 17:02:02.067 - INFO - destroying snap7 client
+2025-03-21 17:02:02.067 - INFO - destroying snap7 client
+2025-03-21 17:02:02.067 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:02.067 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:02.696 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:02.696 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:02.720 - INFO - creating snap7 client
+2025-03-21 17:02:02.720 - INFO - creating snap7 client
+2025-03-21 17:02:02.720 - INFO - destroying snap7 client
+2025-03-21 17:02:02.720 - INFO - destroying snap7 client
+2025-03-21 17:02:02.720 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:02.720 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:03.362 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:03.362 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:03.379 - INFO - creating snap7 client
+2025-03-21 17:02:03.379 - INFO - creating snap7 client
+2025-03-21 17:02:03.379 - INFO - destroying snap7 client
+2025-03-21 17:02:03.379 - INFO - destroying snap7 client
+2025-03-21 17:02:03.379 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:03.379 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:03.385 - ERROR - b' TCP : Unreachable peer'
+2025-03-21 17:02:03.385 - ERROR - b' TCP : Unreachable peer'
+2025-03-21 17:02:03.385 - WARNING - 连接重试 1/3: b' TCP : Unreachable peer'
+2025-03-21 17:02:03.385 - WARNING - 连接重试 1/3: b' TCP : Unreachable peer'
+2025-03-21 17:02:03.386 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:03.386 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:04.008 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:04.008 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:04.022 - INFO - creating snap7 client
+2025-03-21 17:02:04.022 - INFO - creating snap7 client
+2025-03-21 17:02:04.022 - INFO - destroying snap7 client
+2025-03-21 17:02:04.022 - INFO - destroying snap7 client
+2025-03-21 17:02:04.022 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:04.022 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:04.656 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:04.656 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:04.670 - INFO - creating snap7 client
+2025-03-21 17:02:04.670 - INFO - creating snap7 client
+2025-03-21 17:02:04.670 - INFO - destroying snap7 client
+2025-03-21 17:02:04.670 - INFO - destroying snap7 client
+2025-03-21 17:02:04.670 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:04.670 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:05.291 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:05.291 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:05.332 - INFO - creating snap7 client
+2025-03-21 17:02:05.332 - INFO - creating snap7 client
+2025-03-21 17:02:05.333 - INFO - destroying snap7 client
+2025-03-21 17:02:05.333 - INFO - destroying snap7 client
+2025-03-21 17:02:05.333 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:05.333 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:06.191 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:06.191 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:06.206 - INFO - creating snap7 client
+2025-03-21 17:02:06.206 - INFO - creating snap7 client
+2025-03-21 17:02:06.206 - INFO - destroying snap7 client
+2025-03-21 17:02:06.206 - INFO - destroying snap7 client
+2025-03-21 17:02:06.206 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:06.206 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:06.800 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:06.800 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:06.813 - INFO - creating snap7 client
+2025-03-21 17:02:06.813 - INFO - creating snap7 client
+2025-03-21 17:02:06.813 - INFO - destroying snap7 client
+2025-03-21 17:02:06.813 - INFO - destroying snap7 client
+2025-03-21 17:02:06.813 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:06.813 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:07.624 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:07.624 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:07.642 - INFO - creating snap7 client
+2025-03-21 17:02:07.642 - INFO - creating snap7 client
+2025-03-21 17:02:07.642 - INFO - destroying snap7 client
+2025-03-21 17:02:07.642 - INFO - destroying snap7 client
+2025-03-21 17:02:07.642 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:07.642 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:08.246 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:08.246 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:08.261 - INFO - creating snap7 client
+2025-03-21 17:02:08.261 - INFO - creating snap7 client
+2025-03-21 17:02:08.261 - INFO - destroying snap7 client
+2025-03-21 17:02:08.261 - INFO - destroying snap7 client
+2025-03-21 17:02:08.261 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:08.261 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:08.817 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:08.817 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:08.831 - INFO - creating snap7 client
+2025-03-21 17:02:08.831 - INFO - creating snap7 client
+2025-03-21 17:02:08.831 - INFO - destroying snap7 client
+2025-03-21 17:02:08.831 - INFO - destroying snap7 client
+2025-03-21 17:02:08.831 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:08.831 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:09.398 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:09.398 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:09.452 - INFO - creating snap7 client
+2025-03-21 17:02:09.452 - INFO - creating snap7 client
+2025-03-21 17:02:09.452 - INFO - destroying snap7 client
+2025-03-21 17:02:09.452 - INFO - destroying snap7 client
+2025-03-21 17:02:09.452 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:09.452 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:10.175 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:10.175 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 28548 and this is thread id 38012.
+2025-03-21 17:02:10.188 - INFO - creating snap7 client
+2025-03-21 17:02:10.188 - INFO - creating snap7 client
+2025-03-21 17:02:10.188 - INFO - destroying snap7 client
+2025-03-21 17:02:10.188 - INFO - destroying snap7 client
+2025-03-21 17:02:10.188 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:10.188 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:14.022 - INFO - creating snap7 client
+2025-03-21 17:02:14.022 - INFO - creating snap7 client
+2025-03-21 17:02:17.796 - INFO - creating snap7 client
+2025-03-21 17:02:17.796 - INFO - creating snap7 client
+2025-03-21 17:02:17.796 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:17.796 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:18.091 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:18.091 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:18.105 - INFO - creating snap7 client
+2025-03-21 17:02:18.105 - INFO - creating snap7 client
+2025-03-21 17:02:18.105 - INFO - destroying snap7 client
+2025-03-21 17:02:18.105 - INFO - destroying snap7 client
+2025-03-21 17:02:18.106 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:18.106 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:18.771 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:18.771 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:18.787 - INFO - creating snap7 client
+2025-03-21 17:02:18.787 - INFO - creating snap7 client
+2025-03-21 17:02:18.787 - INFO - destroying snap7 client
+2025-03-21 17:02:18.787 - INFO - destroying snap7 client
+2025-03-21 17:02:18.787 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:18.787 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:19.414 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:19.414 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:19.427 - INFO - creating snap7 client
+2025-03-21 17:02:19.427 - INFO - creating snap7 client
+2025-03-21 17:02:19.428 - INFO - destroying snap7 client
+2025-03-21 17:02:19.428 - INFO - destroying snap7 client
+2025-03-21 17:02:19.428 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:19.428 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:20.192 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:20.192 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:20.205 - INFO - creating snap7 client
+2025-03-21 17:02:20.205 - INFO - creating snap7 client
+2025-03-21 17:02:20.205 - INFO - destroying snap7 client
+2025-03-21 17:02:20.205 - INFO - destroying snap7 client
+2025-03-21 17:02:20.205 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:20.205 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:20.986 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:20.986 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:20.999 - INFO - creating snap7 client
+2025-03-21 17:02:20.999 - INFO - creating snap7 client
+2025-03-21 17:02:20.999 - INFO - destroying snap7 client
+2025-03-21 17:02:20.999 - INFO - destroying snap7 client
+2025-03-21 17:02:21.000 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:21.000 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:21.951 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:21.951 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:21.966 - INFO - creating snap7 client
+2025-03-21 17:02:21.966 - INFO - creating snap7 client
+2025-03-21 17:02:21.966 - INFO - destroying snap7 client
+2025-03-21 17:02:21.966 - INFO - destroying snap7 client
+2025-03-21 17:02:21.966 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:21.966 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:22.714 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:22.714 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:22.765 - INFO - creating snap7 client
+2025-03-21 17:02:22.765 - INFO - creating snap7 client
+2025-03-21 17:02:22.765 - INFO - destroying snap7 client
+2025-03-21 17:02:22.765 - INFO - destroying snap7 client
+2025-03-21 17:02:22.765 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:22.765 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:23.595 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:23.595 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:23.614 - INFO - creating snap7 client
+2025-03-21 17:02:23.614 - INFO - creating snap7 client
+2025-03-21 17:02:23.614 - INFO - destroying snap7 client
+2025-03-21 17:02:23.614 - INFO - destroying snap7 client
+2025-03-21 17:02:23.614 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:23.614 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:24.293 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:24.293 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:24.307 - INFO - creating snap7 client
+2025-03-21 17:02:24.307 - INFO - creating snap7 client
+2025-03-21 17:02:24.307 - INFO - destroying snap7 client
+2025-03-21 17:02:24.307 - INFO - destroying snap7 client
+2025-03-21 17:02:24.307 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:24.307 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:24.924 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:24.924 - ERROR - 查询出错: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 37208 and this is thread id 12200.
+2025-03-21 17:02:24.936 - INFO - creating snap7 client
+2025-03-21 17:02:24.936 - INFO - creating snap7 client
+2025-03-21 17:02:24.936 - INFO - destroying snap7 client
+2025-03-21 17:02:24.936 - INFO - destroying snap7 client
+2025-03-21 17:02:24.936 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:24.936 - INFO - connecting to 192.168.254.111:102 rack 0 slot 1
+2025-03-21 17:02:28.819 - INFO - creating snap7 client
+2025-03-21 17:02:28.819 - INFO - creating snap7 client
+2025-03-21 17:03:37.184 - INFO - creating snap7 client
+2025-03-21 17:03:37.184 - INFO - creating snap7 client
+2025-03-24 09:52:10.079 - INFO - creating snap7 client
